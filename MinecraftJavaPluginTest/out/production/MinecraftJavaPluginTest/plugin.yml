@@ -1,0 +1,7 @@
+name: PluginTest01
+version: 0.1
+main: main
+commands:
+  giveitem:
+    description: give custom item to player
+author: Solindy
